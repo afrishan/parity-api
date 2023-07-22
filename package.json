@@ -1,0 +1,21 @@
+{
+  "name": "@parity/api",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "lint-staged": {
+    "*.{js,jsx,ts,tsx,json,md,html,css}": "prettier --write"
+  },
+  "engines": {
+    "node": "18.x"
+  },
+  "dependencies": {
+    "@xmtp/xmtp-js": "^10.0.0",
+    "ethers": "^5.7.0",
+    "express": "^4.18.2",
+    "qrcode": "^1.5.3",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
