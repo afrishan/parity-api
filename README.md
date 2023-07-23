@@ -5,6 +5,9 @@ Parity API is an interface to interact with the XMTP network for EVM based walle
 # Viewing QR Code
 - https://www.site24x7.com/tools/datauri-to-image.html
 
+# Arweave Paraphrase
+- noise disorder favorite soda few coyote cannon surprise wall another daring detect
+
 ## Installation
 
 1. Clone the repository:
